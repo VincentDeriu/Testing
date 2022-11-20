@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 ?>
 <!DOCTYPE html>
@@ -18,4 +18,3 @@
 	</div>	
 </body>
 </html>
-
